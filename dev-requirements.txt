@@ -1,0 +1,13 @@
+numpy
+pandas
+
+matplotlib
+seaborn
+plotly
+nbformat
+bar_chart_race
+ffmpeg-python
+
+streamlit
+
+ipykernel
